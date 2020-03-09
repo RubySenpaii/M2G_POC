@@ -23,13 +23,19 @@
 
 textarea {
     resize: none !important;
-    height: 120px !important;
+    height: 100px !important;
+    margin-bottom: 14px;
+    margin-top: 30px;
 }
 
 img {
     height: 50px;
     padding: 10px 0 15px 0;
     margin-left: 1em;
+}
+
+.promo {
+    margin-top: 14px;
 }
 
 

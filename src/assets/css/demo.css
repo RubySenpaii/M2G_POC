@@ -44,7 +44,9 @@
   text-align: center;
   text-transform: uppercase;
   border-radius: 40px;
+  margin-top: 14px;
   padding: 8px 60px;
+  height: 56px;
 }
 
 .right-align {
